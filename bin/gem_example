@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'gem_example'
+puts GemExample.hi(ARGV[0])
